@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/StrykerDemo/.vs/StrykerDemo/v15
+/StrykerDemo/StrykerDemo.ClassLibrary/bin/Debug/netcoreapp2.1
+/StrykerDemo/StrykerDemo.ClassLibrary/obj
+/StrykerDemo/StrykerDemo.Tests/bin/Debug/netcoreapp2.1
+/StrykerDemo/StrykerDemo.Tests/obj
+/StrykerDemo/StrykerDemo.Tests/coverage.json
